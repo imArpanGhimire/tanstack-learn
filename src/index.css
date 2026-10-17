@@ -1,0 +1,22 @@
+ body {
+     background-color: #121212db;
+ }
+
+
+ .infinite-page {
+     min-height: 100vh;
+     padding: 40px;
+ }
+
+ .player {
+     background-color: #121212db;
+     border: 1px solid #333;
+     padding: 15px 20px;
+     margin-bottom: 12px;
+     border-radius: 8px;
+ }
+
+ .player p {
+     color: rgba(255, 255, 255, 0.744) !important;
+     font-size: 18px;
+ }

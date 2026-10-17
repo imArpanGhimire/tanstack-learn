@@ -1,0 +1,679 @@
+{
+  "footballers": [
+    {
+      "id": "1",
+      "name": "Lionel Messi",
+      "country": "Argentina"
+    },
+    {
+      "id": "2",
+      "name": "Cristiano Ronaldo",
+      "country": "Portugal"
+    },
+    {
+      "id": "3",
+      "name": "Kylian Mbappe",
+      "country": "France"
+    },
+    {
+      "id": "4",
+      "name": "Jude Bellingham",
+      "country": "England"
+    },
+    {
+      "id": "5",
+      "name": "Erling Haaland",
+      "country": "Norway"
+    },
+    {
+      "id": "6",
+      "name": "Neymar Jr",
+      "country": "Brazil"
+    },
+    {
+      "id": "7",
+      "name": "Vinicius Junior",
+      "country": "Brazil"
+    },
+    {
+      "id": "8",
+      "name": "Kevin De Bruyne",
+      "country": "Belgium"
+    },
+    {
+      "id": "9",
+      "name": "Mohamed Salah",
+      "country": "Egypt"
+    },
+    {
+      "id": "10",
+      "name": "Harry Kane",
+      "country": "England"
+    },
+    {
+      "id": "11",
+      "name": "Robert Lewandowski",
+      "country": "Poland"
+    },
+    {
+      "id": "12",
+      "name": "Luka Modric",
+      "country": "Croatia"
+    },
+    {
+      "id": "13",
+      "name": "Rodri",
+      "country": "Spain"
+    },
+    {
+      "id": "14",
+      "name": "Antoine Griezmann",
+      "country": "France"
+    },
+    {
+      "id": "15",
+      "name": "Son Heung-min",
+      "country": "South Korea"
+    },
+    {
+      "id": "16",
+      "name": "Virgil van Dijk",
+      "country": "Netherlands"
+    },
+    {
+      "id": "17",
+      "name": "Thibaut Courtois",
+      "country": "Belgium"
+    },
+    {
+      "id": "18",
+      "name": "Pedri",
+      "country": "Spain"
+    },
+    {
+      "id": "19",
+      "name": "Bukayo Saka",
+      "country": "England"
+    },
+    {
+      "id": "20",
+      "name": "Bernardo Silva",
+      "country": "Portugal"
+    },
+    {
+      "id": "21",
+      "name": "Rafael Leao",
+      "country": "Portugal"
+    },
+    {
+      "id": "22",
+      "name": "Lautaro Martinez",
+      "country": "Argentina"
+    },
+    {
+      "id": "23",
+      "name": "Federico Valverde",
+      "country": "Uruguay"
+    },
+    {
+      "id": "24",
+      "name": "Martin Odegaard",
+      "country": "Norway"
+    },
+    {
+      "id": "25",
+      "name": "Alisson Becker",
+      "country": "Brazil"
+    },
+    {
+      "id": "26",
+      "name": "Ederson",
+      "country": "Brazil"
+    },
+    {
+      "id": "27",
+      "name": "Declan Rice",
+      "country": "England"
+    },
+    {
+      "id": "28",
+      "name": "Trent Alexander-Arnold",
+      "country": "England"
+    },
+    {
+      "id": "29",
+      "name": "Joshua Kimmich",
+      "country": "Germany"
+    },
+    {
+      "id": "30",
+      "name": "Kai Havertz",
+      "country": "Germany"
+    },
+    {
+      "id": "31",
+      "name": "Florian Wirtz",
+      "country": "Germany"
+    },
+    {
+      "id": "32",
+      "name": "Victor Osimhen",
+      "country": "Nigeria"
+    },
+    {
+      "id": "33",
+      "name": "Sadio Mane",
+      "country": "Senegal"
+    },
+    {
+      "id": "34",
+      "name": "Achraf Hakimi",
+      "country": "Morocco"
+    },
+    {
+      "id": "35",
+      "name": "Casemiro",
+      "country": "Brazil"
+    },
+    {
+      "id": "36",
+      "name": "Phil Foden",
+      "country": "England"
+    },
+    {
+      "id": "37",
+      "name": "Jack Grealish",
+      "country": "England"
+    },
+    {
+      "id": "38",
+      "name": "Marcus Rashford",
+      "country": "England"
+    },
+    {
+      "id": "39",
+      "name": "Jordan Pickford",
+      "country": "England"
+    },
+    {
+      "id": "40",
+      "name": "John Stones",
+      "country": "England"
+    },
+    {
+      "id": "41",
+      "name": "Kyle Walker",
+      "country": "England"
+    },
+    {
+      "id": "42",
+      "name": "Raheem Sterling",
+      "country": "England"
+    },
+    {
+      "id": "43",
+      "name": "Cole Palmer",
+      "country": "England"
+    },
+    {
+      "id": "44",
+      "name": "Levi Colwill",
+      "country": "England"
+    },
+    {
+      "id": "45",
+      "name": "Ivan Toney",
+      "country": "England"
+    },
+    {
+      "id": "46",
+      "name": "Bruno Fernandes",
+      "country": "Portugal"
+    },
+    {
+      "id": "47",
+      "name": "Joao Cancelo",
+      "country": "Portugal"
+    },
+    {
+      "id": "48",
+      "name": "Diogo Jota",
+      "country": "Portugal"
+    },
+    {
+      "id": "49",
+      "name": "Ruben Dias",
+      "country": "Portugal"
+    },
+    {
+      "id": "50",
+      "name": "Nuno Mendes",
+      "country": "Portugal"
+    },
+    {
+      "id": "51",
+      "name": "Joao Felix",
+      "country": "Portugal"
+    },
+    {
+      "id": "52",
+      "name": "William Carvalho",
+      "country": "Portugal"
+    },
+    {
+      "id": "53",
+      "name": "Goncalo Ramos",
+      "country": "Portugal"
+    },
+    {
+      "id": "54",
+      "name": "Pepe",
+      "country": "Portugal"
+    },
+    {
+      "id": "55",
+      "name": "Diogo Costa",
+      "country": "Portugal"
+    },
+    {
+      "id": "56",
+      "name": "Ousmane Dembele",
+      "country": "France"
+    },
+    {
+      "id": "57",
+      "name": "Aurelien Tchouameni",
+      "country": "France"
+    },
+    {
+      "id": "58",
+      "name": "Eduardo Camavinga",
+      "country": "France"
+    },
+    {
+      "id": "59",
+      "name": "N'Golo Kante",
+      "country": "France"
+    },
+    {
+      "id": "60",
+      "name": "Theo Hernandez",
+      "country": "France"
+    },
+    {
+      "id": "61",
+      "name": "William Saliba",
+      "country": "France"
+    },
+    {
+      "id": "62",
+      "name": "Ibrahima Konate",
+      "country": "France"
+    },
+    {
+      "id": "63",
+      "name": "Randal Kolo Muani",
+      "country": "France"
+    },
+    {
+      "id": "64",
+      "name": "Marcus Thuram",
+      "country": "France"
+    },
+    {
+      "id": "65",
+      "name": "Olivier Giroud",
+      "country": "France"
+    },
+    {
+      "id": "66",
+      "name": "Toni Kroos",
+      "country": "Germany"
+    },
+    {
+      "id": "67",
+      "name": "Manuel Neuer",
+      "country": "Germany"
+    },
+    {
+      "id": "68",
+      "name": "Ilkay Gundogan",
+      "country": "Germany"
+    },
+    {
+      "id": "69",
+      "name": "Leroy Sane",
+      "country": "Germany"
+    },
+    {
+      "id": "70",
+      "name": "Niclas Fullkrug",
+      "country": "Germany"
+    },
+    {
+      "id": "71",
+      "name": "Serge Gnabry",
+      "country": "Germany"
+    },
+    {
+      "id": "72",
+      "name": "Jamal Musiala",
+      "country": "Germany"
+    },
+    {
+      "id": "73",
+      "name": "Marc-Andre ter Stegen",
+      "country": "Germany"
+    },
+    {
+      "id": "74",
+      "name": "Antonio Rudiger",
+      "country": "Germany"
+    },
+    {
+      "id": "75",
+      "name": "Robert Andrich",
+      "country": "Germany"
+    },
+    {
+      "id": "76",
+      "name": "Gavi",
+      "country": "Spain"
+    },
+    {
+      "id": "77",
+      "name": "Dani Olmo",
+      "country": "Spain"
+    },
+    {
+      "id": "78",
+      "name": "Nico Williams",
+      "country": "Spain"
+    },
+    {
+      "id": "79",
+      "name": "Lamine Yamal",
+      "country": "Spain"
+    },
+    {
+      "id": "80",
+      "name": "Alvaro Morata",
+      "country": "Spain"
+    },
+    {
+      "id": "81",
+      "name": "Marc Cucurella",
+      "country": "Spain"
+    },
+    {
+      "id": "82",
+      "name": "Aymeric Laporte",
+      "country": "Spain"
+    },
+    {
+      "id": "83",
+      "name": "Unai Simon",
+      "country": "Spain"
+    },
+    {
+      "id": "84",
+      "name": "David Raya",
+      "country": "Spain"
+    },
+    {
+      "id": "85",
+      "name": "Ferran Torres",
+      "country": "Spain"
+    },
+    {
+      "id": "86",
+      "name": "Angel Di Maria",
+      "country": "Argentina"
+    },
+    {
+      "id": "87",
+      "name": "Enzo Fernandez",
+      "country": "Argentina"
+    },
+    {
+      "id": "88",
+      "name": "Alexis Mac Allister",
+      "country": "Argentina"
+    },
+    {
+      "id": "89",
+      "name": "Rodrigo De Paul",
+      "country": "Argentina"
+    },
+    {
+      "id": "90",
+      "name": "Nicolas Otamendi",
+      "country": "Argentina"
+    },
+    {
+      "id": "91",
+      "name": "Emiliano Martinez",
+      "country": "Argentina"
+    },
+    {
+      "id": "92",
+      "name": "Julian Alvarez",
+      "country": "Argentina"
+    },
+    {
+      "id": "93",
+      "name": "Paulo Dybala",
+      "country": "Argentina"
+    },
+    {
+      "id": "94",
+      "name": "Giovani Lo Celso",
+      "country": "Argentina"
+    },
+    {
+      "id": "95",
+      "name": "Nahuel Molina",
+      "country": "Argentina"
+    },
+    {
+      "id": "96",
+      "name": "Gabriel Martinelli",
+      "country": "Brazil"
+    },
+    {
+      "id": "97",
+      "name": "Raphinha",
+      "country": "Brazil"
+    },
+    {
+      "id": "98",
+      "name": "Rodrygo",
+      "country": "Brazil"
+    },
+    {
+      "id": "99",
+      "name": "Danilo",
+      "country": "Brazil"
+    },
+    {
+      "id": "100",
+      "name": "Thiago Silva",
+      "country": "Brazil"
+    },
+    {
+      "id": "101",
+      "name": "Marquinhos",
+      "country": "Brazil"
+    },
+    {
+      "id": "102",
+      "name": "Fabinho",
+      "country": "Brazil"
+    },
+    {
+      "id": "103",
+      "name": "Richarlison",
+      "country": "Brazil"
+    },
+    {
+      "id": "104",
+      "name": "Endrick",
+      "country": "Brazil"
+    },
+    {
+      "id": "105",
+      "name": "Bruno Guimaraes",
+      "country": "Brazil"
+    },
+    {
+      "id": "106",
+      "name": "Frenkie de Jong",
+      "country": "Netherlands"
+    },
+    {
+      "id": "107",
+      "name": "Memphis Depay",
+      "country": "Netherlands"
+    },
+    {
+      "id": "108",
+      "name": "Cody Gakpo",
+      "country": "Netherlands"
+    },
+    {
+      "id": "109",
+      "name": "Denzel Dumfries",
+      "country": "Netherlands"
+    },
+    {
+      "id": "110",
+      "name": "Xavi Simons",
+      "country": "Netherlands"
+    },
+    {
+      "id": "111",
+      "name": "Romelu Lukaku",
+      "country": "Belgium"
+    },
+    {
+      "id": "112",
+      "name": "Youri Tielemans",
+      "country": "Belgium"
+    },
+    {
+      "id": "113",
+      "name": "Jeremy Doku",
+      "country": "Belgium"
+    },
+    {
+      "id": "114",
+      "name": "Amadou Onana",
+      "country": "Belgium"
+    },
+    {
+      "id": "115",
+      "name": "Mateo Kovacic",
+      "country": "Croatia"
+    },
+    {
+      "id": "116",
+      "name": "Josko Gvardiol",
+      "country": "Croatia"
+    },
+    {
+      "id": "117",
+      "name": "Marcelo Brozovic",
+      "country": "Croatia"
+    },
+    {
+      "id": "118",
+      "name": "Piotr Zielinski",
+      "country": "Poland"
+    },
+    {
+      "id": "119",
+      "name": "Wojciech Szczesny",
+      "country": "Poland"
+    },
+    {
+      "id": "120",
+      "name": "Darwin Nunez",
+      "country": "Uruguay"
+    },
+    {
+      "id": "121",
+      "name": "Ronald Araujo",
+      "country": "Uruguay"
+    },
+    {
+      "id": "122",
+      "name": "Alexander Sorloth",
+      "country": "Norway"
+    },
+    {
+      "id": "123",
+      "name": "Lee Kang-in",
+      "country": "South Korea"
+    },
+    {
+      "id": "124",
+      "name": "Omar Marmoush",
+      "country": "Egypt"
+    },
+    {
+      "id": "125",
+      "name": "Kalidou Koulibaly",
+      "country": "Senegal"
+    },
+    {
+      "id": "126",
+      "name": "Ismaila Sarr",
+      "country": "Senegal"
+    },
+    {
+      "id": "127",
+      "name": "Hakim Ziyech",
+      "country": "Morocco"
+    },
+    {
+      "id": "128",
+      "name": "Youssef En-Nesyri",
+      "country": "Morocco"
+    },
+    {
+      "id": "129",
+      "name": "Wilfred Ndidi",
+      "country": "Nigeria"
+    },
+    {
+      "id": "130",
+      "name": "Ademola Lookman",
+      "country": "Nigeria"
+    },
+    {
+      "id": "131",
+      "name": "Mohammed Kudus",
+      "country": "Ghana"
+    },
+    {
+      "id": "132",
+      "name": "Wilfried Zaha",
+      "country": "Ivory Coast"
+    },
+    {
+      "id": "133",
+      "name": "Nicolo Barella",
+      "country": "Italy"
+    },
+    {
+      "id": "134",
+      "name": "Gianluigi Donnarumma",
+      "country": "Italy"
+    },
+    {
+      "id": "135",
+      "name": "Khvicha Kvaratskhelia",
+      "country": "Georgia"
+    }
+  ]
+}
